@@ -1,3 +1,3 @@
 # Learning React Basic Components
 
-Its fine. It seems easy but seems more complicated.
+Its fine. It seems easy but more complicated.
